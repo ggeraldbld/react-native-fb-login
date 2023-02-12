@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">fb-login</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">contain</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
+  <string name="facebook_client_token">f2338a8c2b961adbecb9081e8540d474</string>
+  <string name="fb_login_protocol_scheme">fb48127127xxxxxxxx</string>
+  <string name="facebook_app_id">1146509392714499</string>
+</resources>
